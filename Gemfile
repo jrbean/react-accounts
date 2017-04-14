@@ -8,6 +8,8 @@ end
 
 gem 'rails', '~> 5.0.2'
 gem 'react-rails', '~> 1.0'
+gem 'less-rails'
+gem 'twitter-bootstrap-rails'
 gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.0'
 gem 'sass-rails', '~> 5.0'
